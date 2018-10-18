@@ -1,0 +1,28 @@
+h1 {
+	text-align: center;
+	font-size: 72px;
+	color: #FFD500;
+}
+h3 {
+	text-align: center;
+	font-size: 28;
+	color: #FFF9B5;
+	font-weight: thin
+}
+section#main {
+	background-color: #ec312c;
+	height: 100vh;
+}
+.main_header {
+	margin-top: 15%;
+}
+section#icons {
+	height: 100vh;
+}
+
+.box {
+	height: 300px;
+	border: 2px solid;
+	color: #FFD500;
+	text-align: center;
+}
